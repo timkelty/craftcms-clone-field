@@ -1,5 +1,5 @@
 {
-	"name": "timkelty/clonefield",
+	"name": "timkelty/craftcms-clonefield",
 	"description": "A field type that clones another field.",
 	"type": "craft-plugin",
 	"authors": [
